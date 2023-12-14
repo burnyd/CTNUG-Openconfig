@@ -1,9 +1,6 @@
 name: telemetry
 
 topology:
-  defaults:
-    env:
-      ETBA: 4
   nodes:
     ceos1:
       kind: ceos
